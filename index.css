@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Orbitron&display=swap');
 
 body {
-    background: rgb(205, 226, 123);
+    background: rgb(123, 143, 226);
 }
 
 .clock {
@@ -9,7 +9,7 @@ body {
     top: 50%;
     left: 50%;
     transform: translateX(-50%) translateY(-50%);
-    color: #17D4FE;
+    color: #5917fe;
     font-size: 60px;
     font-family: Orbitron;
     letter-spacing: 7px;
