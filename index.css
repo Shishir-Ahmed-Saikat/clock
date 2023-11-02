@@ -1,8 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Orbitron&display=swap');
 
 body {
-    background: rgb(123, 143, 226);
-}
+    background: rgb(7, 19, 69);background: rgb(24,150,138);
+    background: radial-gradient(circle, rgba(24,150,138,0.8520658263305322) 0%, rgba(23,31,142,0.9809173669467787) 98%);
 
 .clock {
     position: absolute;
